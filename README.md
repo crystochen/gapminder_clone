@@ -9,7 +9,7 @@ It establishes the database using `pandas` and `sqlite3`, utilizes `matplotlib` 
 1. This project uses a comprehensive dataset directly from gapminder.org, offering a much richer and more detailed analysis than the condensed versions often seen in examples (which typically cover only 1952-2007 with five-year intervals).
 3. It generates the SQL plot that connects to multiple data files, significantly increasing flexibility for data manipulation.
 4. The entire project is fully reproducible.
-5. The final visualization is accessible via a GitHub Page.
+5. The final visualization is accessible via a [GitHub Page](https://crystochen.github.io/gapminder_clone/gapminder_clone.html).
 
 ## 📖 Reproduction Guide
 - Install [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions)
