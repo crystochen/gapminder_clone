@@ -15,4 +15,4 @@ conda env creat -f environment.yml
 ```
 - Save the CSV files in `data` folder
 - Run `python creat_gapminder_db.ipynb` under the environment to create `gapminder.db` in the `data/` folder
-- Run `python plot_with-px.ipynb` under the environment to generate the final visualizations. 
+- Run `python plot_with-px.ipynb` under the environment to generate the final visualization `gapminder_clone.html`. 
